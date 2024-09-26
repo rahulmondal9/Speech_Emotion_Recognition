@@ -1,9 +1,10 @@
-**Speech Emotion Recognition (SER) Project**
+# Speech Emotion Recognition (SER) Project
 
 **Description**
 
 
 **What is Speech Emotion Recognition?**
+
 Speech Emotion Recognition (SER) is the technology used to attempt to recognize human emotion and affective states from speech. This is based on the observation that vocal expressions carry emotional information, which can be detected through variations in tone, pitch, and speed. Animals like dogs and horses exhibit the ability to understand human emotions through speech, demonstrating the natural foundation of this capability.
 
 **Why is Speech Emotion Recognition Important?**
@@ -12,9 +13,9 @@ Speech Emotion Recognition (SER) is the technology used to attempt to recognize 
 
 2. Enhanced Customer Interaction: SER can be crucial in environments like call centers, where recognizing customer emotions can significantly impact service quality. By classifying calls according to emotional content, businesses can identify and address customer satisfaction and dissatisfaction effectively.
 
-3.Safety Applications: In vehicular systems, understanding the emotional state of the driver through voice can trigger safety mechanisms to prevent accidents, making driving safer.
+3. Safety Applications: In vehicular systems, understanding the emotional state of the driver through voice can trigger safety mechanisms to prevent accidents, making driving safer.
 
-4.Advancements in Human-Computer Interaction: Emotion recognition enhances the way users interact with machines, making these interactions more natural and intuitive.
+4. Advancements in Human-Computer Interaction: Emotion recognition enhances the way users interact with machines, making these interactions more natural and intuitive.
 
 **Datasets**
 

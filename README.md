@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER) Project
 
-**Description**
+# Description
 
 
 **What is Speech Emotion Recognition?**
@@ -17,7 +17,7 @@ Speech Emotion Recognition (SER) is the technology used to attempt to recognize 
 
 4. Advancements in Human-Computer Interaction: Emotion recognition enhances the way users interact with machines, making these interactions more natural and intuitive.
 
-**Datasets**
+# Datasets
 
 In this project, we will be using the following datasets, which are popular in the research community for training emotion recognition models:
 
